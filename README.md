@@ -1,4 +1,4 @@
-# 1 - sys_info.py
+# sys_info.py
 
 This Script will find simple information of the local operating system like:
 - General Information
