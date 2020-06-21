@@ -17,7 +17,7 @@ This Script will find simple information of the local operating system like:
 
 ## Installation
 
-git clone into this repository & Setup the Required libraries.
+git clone into this repository & Setup the Required libraries - 
 
 ```bash
 git clone https://github.com/idanbuller/System-Info-s.git
@@ -81,4 +81,17 @@ Total write: 28.17GB
   IP Address: 169.254.165.44
   Netmask: 255.255.0.0
   Broadcast IP: None
+```
+
+# wifi_passwords.py
+
+CISO: I will sign in to the LAN for you, but i won't give you password in clear text.
+ME: hahaha! OK!
+
+```bash
+python3 wifi_passwords.py
+
+HMB1                          |  ZZZZZZZZZ
+HMB-G                         |  YYYYYYYYY
+FEEDMILL_PUBLIC_Office        |  XXXXXXXXX
 ```
