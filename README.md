@@ -85,7 +85,7 @@ Total write: 28.17GB
 
 # wifi_passwords.py
 
-CISO: I will sign in to the LAN for you, but i won't give you password in clear text.
+CISO: I will sign in to the LAN for you, but i won't give you password in clear text.  
 ME: hahaha! OK!
 
 ```bash
