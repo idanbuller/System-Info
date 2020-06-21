@@ -91,7 +91,7 @@ ME: hahaha! OK!
 ```bash
 python3 wifi_passwords.py
 
-HMB1                          |  ZZZZZZZZZ
-HMB-G                         |  YYYYYYYYY
-FEEDMILL_PUBLIC_Office        |  XXXXXXXXX
+HMB1xx                        |  ZZZZZZZZZ
+HMB-xx                        |  YYYYYYYYY
+FXXDMILL_PUBLIC_Office        |  XXXXXXXXX
 ```
